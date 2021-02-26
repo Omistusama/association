@@ -5,12 +5,10 @@
 }
 @media screen and (min-width:1200px){
   body{
-    margin: 0px auto;
-    padding:16px auto;
+    margin:16px auto;
     max-width:1168px; /* 1200 - 16*2 */
   }
 }
-
 /* .container {
   position: relative;
   width: 100%;
