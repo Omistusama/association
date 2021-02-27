@@ -7,12 +7,14 @@
   body{
     margin: 0px ;
     padding:16px auto;
+    max-width:1168px; /*1200 - 16*2 */
   }
 }
 @media screen and (min-width:1400px){
   body{
     margin: 0px ;
     padding:16px auto;
+    max-width:1368px; /*1200 - 16*2 */
   }
 }
 @media screen and (min-width:1600px){

@@ -3,23 +3,11 @@
   width: 100%;
   height: auto;
 }
-@media screen and (min-width:1200px){
+@media screen and (min-width:576px){
   body{
-    margin: 0px ;
+    margin: 0px auto;
     padding:16px auto;
-  }
-}
-@media screen and (min-width:1400px){
-  body{
-    margin: 0px ;
-    padding:16px auto;
-  }
-}
-@media screen and (min-width:1600px){
-  body{
-    margin: 0px ;
-    padding:16px auto;
-    max-width:1968px; /*1200 - 16*2 */
+    max-width:544px; /* 1200 - 16*2 */
   }
 }
 
